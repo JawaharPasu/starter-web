@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> something added <role> -- <twitter>
 
 # THANKS
 

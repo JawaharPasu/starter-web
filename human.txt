@@ -5,6 +5,7 @@
 
     <name> something added <role> and i dont know it<twitter> that y i am adding this
     ok thats fine to show, i am changing this in master agin?
+    ok am i here?
 
 # THANKS
 
@@ -14,4 +15,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-    This is final change here and done 
+    This is horribly change here and done 

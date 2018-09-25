@@ -4,7 +4,7 @@
 # TEAM
 
     <name> something added <role> and i dont know it<twitter> that y i am adding this
-    ok thats fine to show
+    ok thats fine to show, i am changing this in master
 
 # THANKS
 
@@ -14,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    I am also changing here in master

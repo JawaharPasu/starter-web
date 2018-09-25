@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name> this is done here and i am adding few more
+    <name> this is done here and i am adding few more, this in master
 
 # TECHNOLOGY COLOPHON
 
